@@ -2,7 +2,7 @@
 
 :root {
     --font1: 'Roboto Mono', sans-serif;
-    --scrollspeed: /*adjust if about length is altered*/ 7s;
+    --scrollspeed: /*adjust if about length is altered*/ 15s;
   }
   
   body {
