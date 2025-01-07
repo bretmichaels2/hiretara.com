@@ -104,8 +104,8 @@
   }
 
   .footer2 {
-    /*position: static;
-    margin-bottom: 25px;*/
+    padding-bottom: 10px;
+    bottom: 0;
     background-color:black;
   }
   
@@ -269,6 +269,10 @@
     #about-links {
       grid-column: 1 / span 2;
       grid-row: 3;
+    }
+
+    #about {
+      text-align: center;
     }
 
     #about-portrait {
