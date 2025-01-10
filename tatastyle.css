@@ -146,15 +146,19 @@
 
   #about-text {
     text-transform: none;
-    font-size: 1.5em;
+    font-size: 1.25em;
     grid-column: 1 / span 2;
     padding-bottom: 1.5em;
   }
 
   #about-links {
-    list-style-type: none;
+    text-transform: none;
     font-size: 1.35em;
     padding: 0;
+  }
+
+  #about-links a {
+    text-transform: uppercase;
   }
 
   #portrait {
